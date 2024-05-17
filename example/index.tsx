@@ -11,7 +11,7 @@ import {
 
 const product = {
   id: '1',
-  title: 'Coffe mug - Card',
+  title: 'Coffe mug - Card!',
   // img: './coffee-mug.png'
 }
 
